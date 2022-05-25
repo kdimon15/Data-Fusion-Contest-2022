@@ -1,0 +1,4 @@
+{
+    "image": "kdimon15/vtb_hack:latest",
+    "entry_point": "python -u run.py"
+}
